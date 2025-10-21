@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
+[exp.1.prompt.pdf](https://github.com/user-attachments/files/23020229/exp.1.prompt.pdf)
 
 
 # Result
